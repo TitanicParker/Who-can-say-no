@@ -1,0 +1,54 @@
+{
+  "title": "WHO CAN SAY NO?",
+  "subtitle": "A Field Manual for Sovereignty, Compromise, and Institutional Power",
+  "chapters": [
+    {
+      "title": "Introduction: Compromise",
+      "file": "00-introduction-compromise.md"
+    },
+    {
+      "title": "Core Architecture",
+      "file": "01-core-architecture.md"
+    },
+    {
+      "title": "Diagnostic Method",
+      "file": "02-diagnostic-method.md"
+    },
+    {
+      "title": "Structural Logic",
+      "file": "03-structural-logic.md"
+    },
+    {
+      "title": "Ordinary Life",
+      "file": "04-ordinary-life.md"
+    },
+    {
+      "title": "Institutional Layer",
+      "file": "05-institutional-layer.md"
+    },
+    {
+      "title": "Case Study Method",
+      "file": "06-case-study-method.md"
+    },
+    {
+      "title": "Case Study: COVID",
+      "file": "07-case-study-covid.md"
+    },
+    {
+      "title": "Case Study: Gaza",
+      "file": "08-case-study-gaza.md"
+    },
+    {
+      "title": "Case Study: 9/11",
+      "file": "09-case-study-911.md"
+    },
+    {
+      "title": "Final Moral Correction",
+      "file": "10-final-moral-correction.md"
+    },
+    {
+      "title": "Final Addendum: The Problems That Never Get Solved",
+      "file": "11-final-addendum.md"
+    }
+  ]
+}
